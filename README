@@ -1,4 +1,7 @@
 This repository contains python projects I have worked on in my free time. Some are useful, some are just fun.
 
 Files:
-
+TicTacToe.py		A tic-tac-toe playing program written originally for CS 177. Theoretically unbeatable.
+Risk Simulator.py	Quickly simulates battles for Risk that can take a long time to play out. GUI version to come?
+fftmaxfind.py		Code to help in my violin bow research. Eventually replaced by a C code that was more effective.
+Python Challenge/	Directory of codes from my poor attempt at the python challenge: www.pythonchallenge.com
